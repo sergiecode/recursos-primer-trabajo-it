@@ -77,9 +77,13 @@ Necesitarás dominar lenguajes y frameworks como Swift para iOS, Kotlin para And
 
 ## Curriculum Vitae / Resume / Carta de Presentación:
 
-1. Texto Plano (Ejemplo Harvard): https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/ o https://careerservices.fas.harvard.edu/resources/harvard-college-paragraph-resume-template/
-2. Diseño en PDF (a través de Canva): https://www.canva.com/search?q=resume
-3. Plantillas de Office Gratis: https://create.microsoft.com/en-us/templates/resumes
+1. Texto Plano (Ejemplo Harvard): 
+https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/
+https://careerservices.fas.harvard.edu/resources/harvard-college-paragraph-resume-template/
+2. Diseño en PDF (a través de Canva): 
+https://www.canva.com/search?q=resume
+3. Plantillas de Office Gratis:
+https://create.microsoft.com/en-us/templates/resumes
 
 ## Recomendaciones de HARDVARD: 
 
