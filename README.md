@@ -67,3 +67,11 @@ Necesitarás dominar lenguajes y frameworks como Swift para iOS, Kotlin para And
 
 1. Gestión de Finanzas Personales: Desarrollar una app que permita a los usuarios registrar ingresos y gastos, categorizar transacciones, generar gráficos de análisis de sus finanzas, y establecer metas de ahorro, con opciones de sincronización en la nube y autenticación segura.
 2. Red Social: Crear una aplicación móvil donde los usuarios puedan registrarse, crear un perfil, publicar actualizaciones de estado, interactuar con publicaciones de otros (me gusta, comentarios), y gestionar una lista de amigos, integrando bases de datos en tiempo real (por ejemplo, Firebase).
+
+![ELEGIR UN CAMINO](https://raw.githubusercontent.com/sergiecode/recursos-primer-trabajo-it/main/Im%C3%A1genes/Primer%20Trabajo%20IT%20(3).png?token=GHSAT0AAAAAACV572EAF7F76TJLBU3NA7FQZWAY37Q)
+![ELEGIR UN CAMINO](https://raw.githubusercontent.com/sergiecode/recursos-primer-trabajo-it/main/Im%C3%A1genes/Primer%20Trabajo%20IT%20(4).png?token=GHSAT0AAAAAACV572EAZ4NEJNO3NK7RRBAYZWAY46A)
+![ELEGIR UN CAMINO](https://raw.githubusercontent.com/sergiecode/recursos-primer-trabajo-it/main/Im%C3%A1genes/Primer%20Trabajo%20IT%20(5).png?token=GHSAT0AAAAAACV572EBKV7JV6UHJLSPMH7QZWAY5HQ)
+![ELEGIR UN CAMINO](https://raw.githubusercontent.com/sergiecode/recursos-primer-trabajo-it/main/Im%C3%A1genes/Primer%20Trabajo%20IT%20(6).png?token=GHSAT0AAAAAACV572EBWL4XHJWJ4OTJT2MQZWAY5PA)
+![ELEGIR UN CAMINO](https://raw.githubusercontent.com/sergiecode/recursos-primer-trabajo-it/main/Im%C3%A1genes/Primer%20Trabajo%20IT%20(7).png?token=GHSAT0AAAAAACV572EANZYFCBBMEMQLYHSAZWAY5XQ)
+![ELEGIR UN CAMINO](https://raw.githubusercontent.com/sergiecode/recursos-primer-trabajo-it/main/Im%C3%A1genes/Primer%20Trabajo%20IT%20(8).png?token=GHSAT0AAAAAACV572EBOPC6ZF7GUNOWUEMMZWAY57Q)
+
