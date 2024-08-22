@@ -20,7 +20,7 @@ Un CV bien estructurado y un perfil de LinkedIn completo y profesional son impre
 
 Participar activamente en comunidades, eventos y grupos relacionados con IT te ayudará a construir relaciones y abrir puertas hacia nuevas oportunidades laborales.
 
-[![REQUISITOS](https://raw.githubusercontent.com/sergiecode/recursos-primer-trabajo-it/main/Im%C3%A1genes/Primer%20Trabajo%20IT%20(1).png)
+![REQUISITOS](https://raw.githubusercontent.com/sergiecode/recursos-primer-trabajo-it/main/Im%C3%A1genes/Primer%20Trabajo%20IT%20(1).png)
 
 
 ## Elegir un camino:
